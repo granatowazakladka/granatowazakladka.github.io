@@ -1,8 +1,8 @@
 "Opowieść Bożonarodzeniowa"		
 ##################################
 :date: 2023-11-15 17:29
-:category: Boże Narodzenie, Dla dzieci
-:tags: adwent, Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dziecięca, świąteczna książka dla dzieci, święta
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,adwent, Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dziecięca, świąteczna książka dla dzieci, święta
 :slug: opowiesc-bozonarodzeniowa
 :status: published
 :cover: images/2023/11/opowiesc-bozonarodzeniowa.png

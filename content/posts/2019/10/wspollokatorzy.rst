@@ -1,8 +1,8 @@
 "Współlokatorzy" - potrzebowałam takiej historii!		
 ########################################################
 :date: 2019-10-07 09:22
-:category: Babskim okiem, Różności, Ulubione
-:tags: granatowazakładka, powieść obyczajowa, współlokatorzy
+:category: Ulubione
+:tags: Babskim okiem, Różności, Ulubione,granatowazakładka, powieść obyczajowa, współlokatorzy
 :slug: wspollokatorzy
 :status: published
 :cover: images/2019/10/współlokatorzy.jpg

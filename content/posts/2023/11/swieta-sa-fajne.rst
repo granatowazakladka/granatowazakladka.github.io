@@ -1,8 +1,8 @@
 "Święta są fajne"		
 ########################
 :date: 2023-11-19 17:22
-:category: Boże Narodzenie, Dla dzieci
-:tags: adwent, Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,adwent, Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci
 :slug: swieta-sa-fajne
 :status: published
 :cover: images/2023/11/swieta-sa-fajne.jpg

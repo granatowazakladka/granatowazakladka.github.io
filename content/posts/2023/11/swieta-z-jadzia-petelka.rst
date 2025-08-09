@@ -1,8 +1,8 @@
 Święta z Jadzią Pętelką		
 ##############################
 :date: 2023-11-19 22:41
-:category: Boże Narodzenie, Dla dzieci
-:tags: adwent, Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,adwent, Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
 :slug: swieta-z-jadzia-petelka
 :status: published
 :cover: images/2023/11/jadzia-petelka-odwiedza-dziadkow.jpg

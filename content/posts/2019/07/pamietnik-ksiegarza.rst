@@ -1,8 +1,8 @@
 "Pamiętnik księgarza"		
 ############################
 :date: 2019-07-03 08:52
-:category: Różności, Ulubione
-:tags: antykwariat, książki, pamiętnik, pasja
+:category: Ulubione
+:tags: Różności, Ulubione,antykwariat, książki, pamiętnik, pasja
 :slug: pamietnik-ksiegarza
 :status: published
 :cover: images/2019/07/ksiegarz.jpg

@@ -1,8 +1,8 @@
 "Marcelinka i świąteczny kołowrotek"		
 ###########################################
 :date: 2023-11-19 16:57
-:category: Boże Narodzenie, Dla dzieci
-:tags: Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, świąteczna książka dla dzieci, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, świąteczna książka dla dzieci, święta, święty mikołaj
 :slug: marcelinka-i-swiateczny-kolowrotek
 :status: published
 :cover: images/2023/11/Marcelinka-i-świąteczny-kołowrotek.jpg

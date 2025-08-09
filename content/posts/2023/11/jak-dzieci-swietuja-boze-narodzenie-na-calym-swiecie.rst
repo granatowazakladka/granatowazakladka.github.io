@@ -1,8 +1,8 @@
 "Jak dzieci świętują Boże Narodzenie na całym świecie?"		
 ##############################################################
 :date: 2023-11-19 22:01
-:category: Boże Narodzenie, Dla dzieci
-:tags: Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
 :slug: jak-dzieci-swietuja-boze-narodzenie-na-calym-swiecie
 :status: published
 :cover: images/2023/11/jak-dzieci-swietuja.jpg

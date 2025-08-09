@@ -1,8 +1,8 @@
 „Tysiąc wspaniałych słońc” – Afganistan, miłość i okrucieństwo		
 #####################################################################
 :date: 2021-01-29 10:29
-:category: Babskim okiem, Różności
-:tags: miłość, obyczajówka, powieść obyczajowa, saga rodzinna
+:category: Babskim okiem
+:tags: Babskim okiem, Różności,miłość, obyczajówka, powieść obyczajowa, saga rodzinna
 :slug: tysiac-wspanialych-slonc-afganistan-milosc-i-okrucienstwo
 :status: published
 :cover: images/2021/01/1000-wspanialych-slonc.jpg

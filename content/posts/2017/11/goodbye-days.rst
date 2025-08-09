@@ -1,8 +1,8 @@
 "Goodbye Days"		
 #####################
 :date: 2017-11-10 21:31
-:category: Różności, Ulubione
-:tags: cierpienie, goodybe days, miłość, młodzieżówka, nadzieja
+:category: Ulubione
+:tags: Różności, Ulubione,cierpienie, goodybe days, miłość, młodzieżówka, nadzieja
 :slug: goodbye-days
 :status: published
 :cover: images/2017/11/goodbye-days.jpg

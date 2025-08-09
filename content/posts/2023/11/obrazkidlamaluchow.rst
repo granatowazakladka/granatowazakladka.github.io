@@ -1,8 +1,8 @@
 Obrazki dla maluchów. Boże Narodzenie		
 ############################################
 :date: 2023-11-19 15:11
-:category: Boże Narodzenie, Dla dzieci
-:tags: adwent, Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,adwent, Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
 :slug: obrazkidlamaluchow
 :status: published
 :cover: images/2023/11/Obrazki-dla-maluchow.jpg

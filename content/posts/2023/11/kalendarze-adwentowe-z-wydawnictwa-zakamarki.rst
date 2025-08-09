@@ -1,8 +1,8 @@
 Kalendarze adwentowe z wydawnictwa Zakamarki		
 ###################################################
 :date: 2023-11-19 22:05
-:category: Boże Narodzenie, Dla dzieci
-:tags: adwent, Boże Narodzenie, kalendarz adwentowy, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,adwent, Boże Narodzenie, kalendarz adwentowy, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święty mikołaj
 :slug: kalendarze-adwentowe-z-wydawnictwa-zakamarki
 :status: published
 :cover: images/2023/11/zagadka-zlodzieja-swiat.jpg

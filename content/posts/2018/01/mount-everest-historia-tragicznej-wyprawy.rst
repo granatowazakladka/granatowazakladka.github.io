@@ -2,7 +2,7 @@ Mount Everest - historia tragicznej wyprawy i cudownych ocaleń
 #####################################################################
 :date: 2018-01-07 13:36
 :category: Ulubione
-:tags: góry, mount everest, reportaż, wspinaczka
+:tags: Ulubione,góry, mount everest, reportaż, wspinaczka
 :slug: mount-everest-historia-tragicznej-wyprawy
 :status: published
 :cover: images/2018/01/everest.jpg

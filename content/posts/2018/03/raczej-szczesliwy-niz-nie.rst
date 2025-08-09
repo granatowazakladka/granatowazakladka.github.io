@@ -2,7 +2,7 @@
 ##################################
 :date: 2018-03-15 17:07
 :category: Różności
-:tags: dla młodzieży, książka, szczęście
+:tags: Różności,dla młodzieży, książka, szczęście
 :slug: raczej-szczesliwy-niz-nie
 :status: published
 :cover: images/2018/03/raczej-szczęśliwy.jpg

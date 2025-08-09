@@ -1,8 +1,8 @@
 "Opowieść Podręcznej" - Margaret Atwood		
 ##############################################
 :date: 2017-10-10 09:48
-:category: Babskim okiem, Różności
-:tags: kobieta, margaret atwood, opowieść podręcznej
+:category: Babskim okiem
+:tags: Babskim okiem, Różności,kobieta, margaret atwood, opowieść podręcznej
 :slug: opowiesc-podrecznej-margaret-atwood
 :status: published
 :cover: images/2017/10/opowiesc-podrecznej-390.jpg

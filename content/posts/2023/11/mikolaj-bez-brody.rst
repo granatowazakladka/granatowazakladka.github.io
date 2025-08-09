@@ -1,8 +1,8 @@
 "Mikołaj bez brody"		
 ##########################
 :date: 2023-11-06 00:02
-:category: Boże Narodzenie, Dla dzieci
-:tags: Boże Narodzenie, książka dla dzieci, książka na święta, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,Boże Narodzenie, książka dla dzieci, książka na święta, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
 :slug: mikolaj-bez-brody
 :status: published
 :cover: images/2023/11/Mikolaj-bez-brody.jpg

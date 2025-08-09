@@ -1,8 +1,8 @@
 "Święty Mikołaj z Miry"		
 ##############################
 :date: 2023-11-13 07:58
-:category: Boże Narodzenie, Dla dzieci
-:tags: adwent, Boże Narodzenie, literatura dla dzieci, literatura dziecięca, mikołajki, świąteczna książka dla dzieci, święci, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,adwent, Boże Narodzenie, literatura dla dzieci, literatura dziecięca, mikołajki, świąteczna książka dla dzieci, święci, święta, święty mikołaj
 :slug: swiety-mikolaj-z-miry
 :status: published
 :cover: images/2023/11/Swiety-Mikolaj-z-Miry.jpg

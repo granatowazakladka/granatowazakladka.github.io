@@ -1,8 +1,8 @@
 "Jak ratowaliśmy Wigilię" - adwent pełen przygód		
 #######################################################
 :date: 2020-11-27 12:29
-:category: Boże Narodzenie, Dla dzieci
-:tags: adwent, Boże Narodzenia, książka dla dzieci, literatura dziecięca
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,adwent, Boże Narodzenia, książka dla dzieci, literatura dziecięca
 :slug: jak-ratowalismy-wigilie-adwent-pelen-przygod
 :status: published
 :cover: images/2020/11/20201127_102154.jpg

@@ -1,8 +1,8 @@
 "Światło między oceanami" - morze emocji		
 ###############################################
 :date: 2017-07-20 09:10
-:category: Różności, Ulubione
-:tags: dylematy, morze, światło, światło między oceanami
+:category: Ulubione
+:tags: Różności, Ulubione,dylematy, morze, światło, światło między oceanami
 :slug: swiatlo-miedzy-oceanami-morze-emocji
 :status: published
 :cover: images/2017/07/swiatlo-miedzy-oceanami.jpg

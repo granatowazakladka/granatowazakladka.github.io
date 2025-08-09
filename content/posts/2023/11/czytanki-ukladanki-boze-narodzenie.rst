@@ -1,8 +1,8 @@
 Czytanki - układanki. Boże Narodzenie		
 ############################################
 :date: 2023-11-18 22:47
-:category: Boże Narodzenie, Dla dzieci
-:tags: adwent, Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,adwent, Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta
 :slug: czytanki-ukladanki-boze-narodzenie
 :status: published
 :cover: images/2023/11/Boze-narodzenie-czytanki.jpg

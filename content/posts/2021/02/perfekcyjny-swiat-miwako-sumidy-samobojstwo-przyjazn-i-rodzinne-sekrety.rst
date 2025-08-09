@@ -2,7 +2,7 @@
 ###################################################################################
 :date: 2021-02-04 14:15
 :category: Różności
-:tags: granatowazakładka, literacki rok z żurawiem, literatura japońska, literatura piękna, powieść, powieść obyczajowa, seria z żurawiem
+:tags: Różności,granatowazakładka, literacki rok z żurawiem, literatura japońska, literatura piękna, powieść, powieść obyczajowa, seria z żurawiem
 :slug: perfekcyjny-swiat-miwako-sumidy-samobojstwo-przyjazn-i-rodzinne-sekrety
 :status: published
 :cover: images/2021/02/IMG_20210129_115038_811.jpg

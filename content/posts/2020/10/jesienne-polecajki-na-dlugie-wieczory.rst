@@ -1,7 +1,7 @@
 Jesienne polecajki na długie wieczory		
 ############################################
 :date: 2020-10-08 12:34
-:category: Różności, Ulubione
+:category: Ulubione
 :slug: jesienne-polecajki-na-dlugie-wieczory
 :status: published
 :cover: images/2020/10/jesienna-okładka.jpg

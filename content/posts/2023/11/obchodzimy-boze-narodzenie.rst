@@ -1,8 +1,8 @@
 "Obchodzimy Boże Narodzenie"		
 ###################################
 :date: 2023-11-18 21:50
-:category: Boże Narodzenie, Dla dzieci
-:tags: adwent, Boże Narodzenie, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,adwent, Boże Narodzenie, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
 :slug: obchodzimy-boze-narodzenie
 :status: published
 :cover: images/2023/11/Obchodzimy-Boże-Narodzenie-mniejsze.jpg

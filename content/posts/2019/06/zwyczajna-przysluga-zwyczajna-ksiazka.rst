@@ -1,8 +1,8 @@
 "Zwyczajna przysługa" - zwyczajna książka		
 ################################################
 :date: 2019-06-15 16:37
-:category: Babskim okiem, Różności
-:tags: debiut, kryminał, powieść, sensacja, thriller
+:category: Babskim okiem
+:tags: Babskim okiem, Różności,debiut, kryminał, powieść, sensacja, thriller
 :slug: zwyczajna-przysluga-zwyczajna-ksiazka
 :status: published
 :cover: images/2019/06/zwyczajna-przysługa.jpg

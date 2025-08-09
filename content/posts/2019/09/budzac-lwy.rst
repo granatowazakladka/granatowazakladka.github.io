@@ -2,7 +2,7 @@
 ##########################################################################
 :date: 2019-09-08 16:53
 :category: Ulubione
-:tags: granatowa zakładka, izrael, książka roku, powieść, thriller, thriller psychologiczny
+:tags: Ulubione,granatowa zakładka, izrael, książka roku, powieść, thriller, thriller psychologiczny
 :slug: budzac-lwy
 :status: published
 :cover: images/2019/09/budząc-lwy.jpg

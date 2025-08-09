@@ -1,8 +1,8 @@
 "Święta w Wielkim Lesie" - zakamarkowy kalendarz adwentowy		
 #################################################################
 :date: 2023-11-14 22:05
-:category: Boże Narodzenie, Dla dzieci
-:tags: Boże Narodzenie, książka dla dzieci, książkowy kalendarz adwentowy, literatura dziecięca, świąteczna książka dla dzieci
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,Boże Narodzenie, książka dla dzieci, książkowy kalendarz adwentowy, literatura dziecięca, świąteczna książka dla dzieci
 :slug: swieta-w-wielkim-lesie-zakamarkowy-kalendarz-adwentowy
 :status: published
 :cover: images/2023/11/Swieta-w-wielkim-lesie.jpg

@@ -2,7 +2,7 @@
 ###########################
 :date: 2017-06-08 17:13
 :category: Babskim okiem
-:tags: dziecko, kobieta, narodziny, położna, poród
+:tags: Babskim okiem,dziecko, kobieta, narodziny, położna, poród
 :slug: zawolajcie-polozna
 :status: published
 :cover: images/2017/07/Worth_Zawolajcie-polozna_m.jpg

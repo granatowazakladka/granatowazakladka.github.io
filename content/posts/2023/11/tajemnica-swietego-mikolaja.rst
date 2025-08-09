@@ -1,8 +1,8 @@
 "Tajemnica świętego Mikołaja"		
 ####################################
 :date: 2023-11-15 10:21
-:category: Boże Narodzenie, Dla dzieci
-:tags: książka na święta, literatura dziecięca, świąteczna książka dla dzieci, świąteczna literatura dziecięca, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,książka na święta, literatura dziecięca, świąteczna książka dla dzieci, świąteczna literatura dziecięca, święty mikołaj
 :slug: tajemnica-swietego-mikolaja
 :status: published
 :cover: images/2023/11/Tajemnica-Świętego-Mikołaja.jpg

@@ -2,7 +2,7 @@
 #######################################################
 :date: 2021-01-17 19:04
 :category: Różności
-:tags: granatowa zakładka, powieść, powieść obyczajowa
+:tags: Różności,granatowa zakładka, powieść, powieść obyczajowa
 :slug: drogi-edwardzie-czule-o-zyciu-po-katastrofie
 :status: published
 :cover: images/2021/01/drogi-edwardzie.jpg

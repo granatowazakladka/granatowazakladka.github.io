@@ -1,8 +1,8 @@
 "Kicia Kocia. Idą święta" - czytanko-kolorowanka		
 #######################################################
 :date: 2023-11-17 16:53
-:category: Boże Narodzenie, Dla dzieci
-:tags: adwent, Boże Narodzenie, kicia kocia, książka na święta, książka świąteczna, literatura dla dzieci, świąteczna książka dla dzieci, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,adwent, Boże Narodzenie, kicia kocia, książka na święta, książka świąteczna, literatura dla dzieci, świąteczna książka dla dzieci, święta, święty mikołaj
 :slug: kicia-kocia-ida-swieta-czytanko-kolorowanka
 :status: published
 :cover: images/2023/11/kicia-kocia-i-swieta.jpg

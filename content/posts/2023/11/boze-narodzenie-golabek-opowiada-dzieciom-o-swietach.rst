@@ -1,8 +1,8 @@
 "Boże Narodzenie" - gołąbek opowiada dzieciom o Świętach		
 ###############################################################
 :date: 2023-11-19 08:33
-:category: Boże Narodzenie, Dla dzieci, Katobook
-:tags: Boże Narodzenie, granatowa zakładka, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci, Katobook,Boże Narodzenie, granatowa zakładka, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci
 :slug: boze-narodzenie-golabek-opowiada-dzieciom-o-swietach
 :status: published
 :cover: images/2023/11/Boze-Narodzenie-z-golabkiem.jpg

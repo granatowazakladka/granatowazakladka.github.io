@@ -2,7 +2,7 @@
 ####################################################
 :date: 2018-03-22 17:11
 :category: Babskim okiem
-:tags: kobieta, powieść
+:tags: Babskim okiem,kobieta, powieść
 :slug: wyjatkowy-depozyt-cos-wiecej-niz-rozrywka
 :status: published
 :cover: images/2018/03/wyjatkowy-depozyt.jpg

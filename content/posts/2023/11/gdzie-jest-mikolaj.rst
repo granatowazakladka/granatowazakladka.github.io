@@ -1,8 +1,8 @@
 "Gdzie jest Mikołaj?"		
 ############################
 :date: 2023-11-04 23:43
-:category: Boże Narodzenie, Dla dzieci
-:tags: Boże Narodzenie, książka dla dzieci, książka na święta, literatura dziecięca, świąteczna literatura dziecięca
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,Boże Narodzenie, książka dla dzieci, książka na święta, literatura dziecięca, świąteczna literatura dziecięca
 :slug: gdzie-jest-mikolaj
 :status: published
 :cover: images/2023/11/Gdzie-jest-Mikolaj.jpg

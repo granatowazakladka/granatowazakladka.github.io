@@ -2,7 +2,7 @@
 ##########################################################
 :date: 2019-09-03 21:02
 :category: Dla dzieci
-:tags: dzieci, natura, przyroda, zwierzęta
+:tags: Dla dzieci,dzieci, natura, przyroda, zwierzęta
 :slug: dzikie-sekrety-przyrody
 :status: published
 :cover: images/2019/09/dzikie-sekrety.jpg

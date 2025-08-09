@@ -1,8 +1,8 @@
 "Ile jeszcze do Gwiazdki?"		
 #################################
 :date: 2023-11-15 16:11
-:category: Boże Narodzenie, Dla dzieci
-:tags: adwent, Boże Narodzenie, dzieci, dziecko, książka dla dzieci, książka na święta, książka świąteczna, świąteczna książka dla dzieci, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,adwent, Boże Narodzenie, dzieci, dziecko, książka dla dzieci, książka na święta, książka świąteczna, świąteczna książka dla dzieci, święta, święty mikołaj
 :slug: ile-jeszcze-do-gwiazdki
 :status: published
 :cover: images/2023/11/Ile-jeszcze-do-gwiazdki.jpg

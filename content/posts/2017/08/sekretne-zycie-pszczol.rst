@@ -2,7 +2,7 @@
 ###############################
 :date: 2017-08-01 19:12
 :category: Różności
-:tags: pszczoły, sekretne życie pszczół
+:tags: Różności,pszczoły, sekretne życie pszczół
 :slug: sekretne-zycie-pszczol
 :status: published
 :cover: images/2017/08/sekretne-życie-pszczół.jpg

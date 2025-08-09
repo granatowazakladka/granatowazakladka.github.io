@@ -2,7 +2,7 @@ Podsumowanie: listopad & grudzień 2018
 #############################################
 :date: 2018-12-31 12:05
 :category: Różności
-:tags: książki, podsumowanie, powieść
+:tags: Różności,książki, podsumowanie, powieść
 :slug: podsumowanie-listopad-grudzien-2018
 :status: published
 :cover: images/2018/12/zima.jpeg

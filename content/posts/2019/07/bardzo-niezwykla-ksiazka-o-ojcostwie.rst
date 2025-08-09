@@ -2,7 +2,7 @@ Bardzo (nie)zwykła książka o ojcostwie
 #############################################
 :date: 2019-07-18 22:05
 :category: Różności
-:tags: dziecko, dzień ojca, ojciec, ojcostwo, przygoda, rodzicielstwo, rozmowa, tata, wywiad
+:tags: Różności,dziecko, dzień ojca, ojciec, ojcostwo, przygoda, rodzicielstwo, rozmowa, tata, wywiad
 :slug: bardzo-niezwykla-ksiazka-o-ojcostwie
 :status: published
 :cover: images/2019/07/świat-na-głowie.jpg

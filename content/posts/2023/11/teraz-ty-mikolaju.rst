@@ -1,8 +1,8 @@
 "Teraz Ty, Mikołaju"		
 ###########################
 :date: 2023-11-08 12:25
-:category: Boże Narodzenie, Dla dzieci
-:tags: Boże Narodzenie, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,Boże Narodzenie, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, święta, święty mikołaj
 :slug: teraz-ty-mikolaju
 :status: published
 :cover: images/2023/11/Teraz-ty-mikolaju.jpg

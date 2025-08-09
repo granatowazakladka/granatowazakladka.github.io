@@ -1,8 +1,8 @@
 "Rodzina Pętelków czeka na Święta"		
 #########################################
 :date: 2023-11-02 10:16
-:category: Boże Narodzenie, Dla dzieci
-:tags: Boże Narodzenie, kalendarz adwentowy, książka dla dzieci, książka na święta, książka świąteczna, literatura dziecięca
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,Boże Narodzenie, kalendarz adwentowy, książka dla dzieci, książka na święta, książka świąteczna, literatura dziecięca
 :slug: rodzina-petelkow-czeka-na-swieta
 :status: published
 :cover: images/2023/11/Rodzina-Petelków-czeka-na-swieta.jpg

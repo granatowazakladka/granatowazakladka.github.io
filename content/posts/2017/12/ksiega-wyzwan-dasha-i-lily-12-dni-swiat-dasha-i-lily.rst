@@ -2,7 +2,7 @@
 #################################################################
 :date: 2017-12-07 09:17
 :category: Różności
-:tags: Boże Narodzenie, święta, święta Bożego Narodzenia
+:tags: Różności,Boże Narodzenie, święta, święta Bożego Narodzenia
 :slug: ksiega-wyzwan-dasha-i-lily-12-dni-swiat-dasha-i-lily
 :status: published
 :cover: images/2017/12/księga-wyzwań-dasha-i-lily.jpg

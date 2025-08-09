@@ -1,8 +1,8 @@
 "Milion miliardów świętych mikołajów"		
 ############################################
 :date: 2023-11-15 05:23
-:category: Boże Narodzenie, Dla dzieci
-:tags: Boże Narodzenie, dzieci, dziecko, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,Boże Narodzenie, dzieci, dziecko, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
 :slug: milion-miliardow-swietych-mikolajow
 :status: published
 :cover: images/2023/11/milion-miliardów-świętych-mikołajów.jpg

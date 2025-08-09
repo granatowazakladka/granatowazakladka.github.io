@@ -1,8 +1,8 @@
 4 małe i bardzo fajne książeczki		
 #######################################
 :date: 2023-11-19 20:55
-:category: Boże Narodzenie, Dla dzieci
-:tags: adwent, Boże Narodzenie, książka dla dzieci, książka na święta, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,adwent, Boże Narodzenie, książka dla dzieci, książka na święta, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta
 :slug: 4maleksiazeczki
 :status: published
 :cover: images/2023/11/4-male-ksiazeczki.jpg

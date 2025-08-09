@@ -1,8 +1,8 @@
 "5 nocy do Gwiazdki" - książka dla niecierpliwych		
 ########################################################
 :date: 2023-11-18 16:30
-:category: Boże Narodzenie, Dla dzieci
-:tags: Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
 :slug: 5-nocy-do-gwiazdki-ksiazka-dla-niecierpliwych
 :status: published
 :cover: images/2023/11/5-nocy-do-gwiazdki.jpg

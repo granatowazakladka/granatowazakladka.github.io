@@ -1,8 +1,8 @@
 "Ciężarówka i przyczepka wiozą choinkę"		
 ##############################################
 :date: 2023-11-19 16:33
-:category: Boże Narodzenie, Dla dzieci
-:tags: adwent, Boże Narodzenie, książka dla dzieci, książka na święta, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,adwent, Boże Narodzenie, książka dla dzieci, książka na święta, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
 :slug: ciezarowka-i-przyczepka-wioza-choinke
 :status: published
 :cover: images/2023/11/ciezarowka-i-przyczepka.jpg

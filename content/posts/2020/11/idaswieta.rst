@@ -1,8 +1,8 @@
 "Idą święta" - książkowy hit nie tylko dla dzieci		
 ########################################################
 :date: 2020-11-29 09:00
-:category: Boże Narodzenie, Dla dzieci
-:tags: adwent, Boże Narodzenie, książka dla dzieci, świąteczna książka
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,adwent, Boże Narodzenie, książka dla dzieci, świąteczna książka
 :slug: idaswieta
 :status: published
 :cover: images/2020/11/20201128_181203.jpg

@@ -1,8 +1,8 @@
 "Czerwone saneczki"		
 ##########################
 :date: 2023-11-19 16:44
-:category: Boże Narodzenie, Dla dzieci
-:tags: adwent, Boże Narodzenie, książka dla dzieci, książka na święta, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,adwent, Boże Narodzenie, książka dla dzieci, książka na święta, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta
 :slug: czerwone-saneczki
 :status: published
 :cover: images/2023/11/czerwone-saneczki.jpg

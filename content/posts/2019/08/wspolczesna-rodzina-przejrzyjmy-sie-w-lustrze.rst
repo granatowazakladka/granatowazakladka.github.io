@@ -1,8 +1,8 @@
 "Współczesna rodzina" - przejrzyjmy się w lustrze		
 ########################################################
 :date: 2019-08-02 19:45
-:category: Różności, Ulubione
-:tags: literatura piękna, powieść, rodzina, skandynawia
+:category: Ulubione
+:tags: Różności, Ulubione,literatura piękna, powieść, rodzina, skandynawia
 :slug: wspolczesna-rodzina-przejrzyjmy-sie-w-lustrze
 :status: published
 :cover: images/2019/08/rodzina-współczesna.jpg

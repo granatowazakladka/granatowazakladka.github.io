@@ -2,7 +2,7 @@ Ks. Dolindo: mistrz pokory i pogody ducha
 ################################################
 :date: 2017-11-04 17:19
 :category: Katobook
-:tags: dolindo, duchowość, modlitwa, święci
+:tags: Katobook,dolindo, duchowość, modlitwa, święci
 :slug: 234-2
 :status: published
 :cover: images/2017/11/Jezu-Ty-się-tym-zajmij.jpg

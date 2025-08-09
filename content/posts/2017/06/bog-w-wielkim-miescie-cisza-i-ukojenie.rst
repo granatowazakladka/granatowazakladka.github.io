@@ -2,7 +2,7 @@
 #################################################
 :date: 2017-06-01 17:00
 :category: Katobook
-:tags: Bóg, gwiazdy, katobook, kobieta, wiara
+:tags: Katobook,Bóg, gwiazdy, katobook, kobieta, wiara
 :slug: bog-w-wielkim-miescie-cisza-i-ukojenie
 :status: published
 :cover: images/2017/06/bóg-w-wielkim-mieście.jpg

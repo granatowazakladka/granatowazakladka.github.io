@@ -2,7 +2,7 @@
 #################################################
 :date: 2017-08-26 20:53
 :category: Różności
-:tags: haruki murakami, murakami, sputnik sweetheart, wydawnictwo muza
+:tags: Różności,haruki murakami, murakami, sputnik sweetheart, wydawnictwo muza
 :slug: sputnik-sweetheart-i-odrobina-samotnosci
 :status: published
 :cover: images/2017/08/sputnik-sweetheart-b-iext44138829.jpg

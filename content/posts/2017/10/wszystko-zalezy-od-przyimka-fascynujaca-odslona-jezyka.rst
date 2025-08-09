@@ -1,8 +1,8 @@
 "Wszystko zależy od przyimka" - fascynująca odsłona języka		
 #################################################################
 :date: 2017-10-19 22:19
-:category: Różności, Ulubione
-:tags: bralczyk, język polski, markowski, miodek, polszczyzna
+:category: Ulubione
+:tags: Różności, Ulubione,bralczyk, język polski, markowski, miodek, polszczyzna
 :slug: wszystko-zalezy-od-przyimka-fascynujaca-odslona-jezyka
 :status: published
 :cover: images/2017/10/T092765.jpg

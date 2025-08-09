@@ -1,8 +1,8 @@
 "Drogi Evanie Hansenie" - historia o każdym z nas		
 ########################################################
 :date: 2019-07-01 13:59
-:category: Różności, Ulubione
-:tags: granatowa zakładka, powieść, powieść młodzieżowa
+:category: Ulubione
+:tags: Różności, Ulubione,granatowa zakładka, powieść, powieść młodzieżowa
 :slug: drogievaniehansenie
 :status: published
 :cover: images/2019/07/DrogiEvanieHansenie_500.jpg

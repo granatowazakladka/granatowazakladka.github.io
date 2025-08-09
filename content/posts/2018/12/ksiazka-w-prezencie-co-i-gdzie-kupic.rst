@@ -2,7 +2,7 @@ Książka w prezencie - co i gdzie kupić?
 ##############################################
 :date: 2018-12-09 12:00
 :category: Różności
-:tags: Boże Narodzenie, inspiracje czytelnicze, prezenty
+:tags: Różności,Boże Narodzenie, inspiracje czytelnicze, prezenty
 :slug: ksiazka-w-prezencie-co-i-gdzie-kupic
 :status: published
 :cover: images/2018/12/ślady.jpg

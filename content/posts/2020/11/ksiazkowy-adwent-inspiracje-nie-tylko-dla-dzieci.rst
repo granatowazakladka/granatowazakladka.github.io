@@ -2,7 +2,7 @@ Książkowy adwent - inspiracje (nie tylko) dla dzieci
 ###########################################################
 :date: 2020-11-19 14:37
 :category: Dla dzieci
-:tags: adwent, Boże Narodzenie, granatowa zakładka, kalendarz adwentowy, książki dla dzieci, książki na adwent, książkowy adwent
+:tags: Dla dzieci,adwent, Boże Narodzenie, granatowa zakładka, kalendarz adwentowy, książki dla dzieci, książki na adwent, książkowy adwent
 :slug: ksiazkowy-adwent-inspiracje-nie-tylko-dla-dzieci
 :status: published
 :cover: images/2020/11/elf.jpg

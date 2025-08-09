@@ -2,7 +2,7 @@ O kobiecym alpinizmie i kobiecie z charyzmą - "Halina. Dziś już nie ma takich
 ############################################################################################
 :date: 2020-09-13 13:21
 :category: Różności
-:tags: biografia, himalaizm, himalaizm kobiecy
+:tags: Różności,biografia, himalaizm, himalaizm kobiecy
 :slug: halina
 :status: published
 :cover: images/2020/09/Halina.jpg

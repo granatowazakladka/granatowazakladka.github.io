@@ -2,7 +2,7 @@ Podsumowanie półrocza 2020 - najlepsze i najgorsze książki
 #################################################################
 :date: 2020-06-30 19:31
 :category: Różności
-:tags: najgorsze książki, najlepsze książki, podsumowanie półrocza
+:tags: Różności,najgorsze książki, najlepsze książki, podsumowanie półrocza
 :slug: podsumowanie-polrocza-2020-najlepsze-i-najgorsze-ksiazki
 :status: published
 :cover: images/2020/06/20200630_172520.jpg

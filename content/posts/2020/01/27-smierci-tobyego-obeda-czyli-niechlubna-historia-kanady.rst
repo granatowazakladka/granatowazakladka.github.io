@@ -2,7 +2,7 @@
 ####################################################################
 :date: 2020-01-25 15:45
 :category: Różności
-:tags: 27 śmierci toby'ego obeda, kanada, reportaż
+:tags: Różności,27 śmierci toby'ego obeda, kanada, reportaż
 :slug: 27-smierci-tobyego-obeda-czyli-niechlubna-historia-kanady
 :status: published
 :cover: images/2020/01/toby-obed.jpg

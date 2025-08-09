@@ -1,8 +1,8 @@
 "Święci pierwszego kontaktu" - Szymon Hołownia		
 #####################################################
 :date: 2017-11-01 11:55
-:category: Katobook, Różności, Ulubione
-:tags: święci, szymon hołownia, wszystkich świętych
+:category: Ulubione
+:tags: Katobook, Różności, Ulubione,święci, szymon hołownia, wszystkich świętych
 :slug: swieci-pierwszego-kontaktu-szymon-holownia
 :status: published
 :cover: images/2017/11/Holownia_Swieci-pierwszego-kontaktu_500pcx_popr3.jpg

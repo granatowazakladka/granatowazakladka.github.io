@@ -2,7 +2,7 @@ PODSUMOWANIE: STYCZEŃ 2020
 #################################
 :date: 2020-02-03 18:39
 :category: Różności
-:tags: komiks, non fiction, podsumowanie, powieść, reportaż, styczeń
+:tags: Różności,komiks, non fiction, podsumowanie, powieść, reportaż, styczeń
 :slug: podsumowanie-styczen-2020
 :status: published
 :cover: images/2020/02/1580751246144152.jpg

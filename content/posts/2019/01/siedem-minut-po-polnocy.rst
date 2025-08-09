@@ -1,8 +1,8 @@
 "Siedem minut po północy"		
 ################################
 :date: 2019-01-06 13:56
-:category: Różności, Ulubione
-:tags: dzieci, potwór, powieść, siedem minut po północy
+:category: Ulubione
+:tags: Różności, Ulubione,dzieci, potwór, powieść, siedem minut po północy
 :slug: siedem-minut-po-polnocy
 :status: published
 :cover: images/2019/01/7-minut.jpg

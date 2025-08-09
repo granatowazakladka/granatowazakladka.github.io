@@ -2,7 +2,7 @@
 #######################################################################
 :date: 2018-10-15 22:02
 :category: Różności
-:tags: bałtyk, podróż, skandynawia, szwecja
+:tags: Różności,bałtyk, podróż, skandynawia, szwecja
 :slug: i-coz-ze-o-szwecji-czyli-o-ksiazce-ktora-jest-zbyt-krotka
 :status: published
 :cover: images/2018/10/i-coz-ze-o-szwecji.jpg

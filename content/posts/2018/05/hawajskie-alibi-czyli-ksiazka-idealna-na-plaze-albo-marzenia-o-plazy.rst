@@ -2,7 +2,7 @@
 ################################################################################
 :date: 2018-05-06 14:24
 :category: Babskim okiem
-:tags: carol snow, hawaje, hawajskie alibi, plaża, powieść obyczajowa, wakacje
+:tags: Babskim okiem,carol snow, hawaje, hawajskie alibi, plaża, powieść obyczajowa, wakacje
 :slug: hawajskie-alibi-czyli-ksiazka-idealna-na-plaze-albo-marzenia-o-plazy
 :status: published
 :cover: images/2018/05/T201288.jpg

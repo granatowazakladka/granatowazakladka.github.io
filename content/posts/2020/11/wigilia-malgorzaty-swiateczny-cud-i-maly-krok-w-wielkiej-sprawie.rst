@@ -2,7 +2,7 @@
 ###########################################################################
 :date: 2020-11-23 10:08
 :category: Dla dzieci
-:tags: Boże Narodzenie, książka dla dzieci, powieść obrazkowa, wigilia
+:tags: Dla dzieci,Boże Narodzenie, książka dla dzieci, powieść obrazkowa, wigilia
 :slug: wigilia-malgorzaty-swiateczny-cud-i-maly-krok-w-wielkiej-sprawie
 :status: published
 :cover: images/2020/11/wigilia-malg.jpg

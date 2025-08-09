@@ -2,7 +2,7 @@
 #################################################
 :date: 2019-09-06 12:06
 :category: Różności
-:tags: escape room, powieść, thriller, winda
+:tags: Różności,escape room, powieść, thriller, winda
 :slug: escape-room-niezapomniana-podroz-winda
 :status: published
 :cover: images/2019/09/escape-room.jpg

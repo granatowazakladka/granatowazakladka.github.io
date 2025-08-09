@@ -2,7 +2,7 @@ How you doin'? Czyli album na 25-lecie "Przyjaciół" #MINIRECENZJA
 ########################################################################
 :date: 2020-08-20 10:25
 :category: Różności
-:tags: 25 lat przyjaciół, friends, przyjaciele, serial, serial komediowy
+:tags: Różności,25 lat przyjaciół, friends, przyjaciele, serial, serial komediowy
 :slug: how-you-doin-czyli-album-na-25-lecie-przyjaciol-minirecenzja
 :status: published
 :cover: images/2020/08/20200822_130412.jpg

@@ -2,7 +2,7 @@
 ##########################################################################
 :date: 2019-10-01 13:43
 :category: Ulubione
-:tags: choroba psychiczna, girlpower, młodzieżówka, powieść młodzieżowa, przyjaźń
+:tags: Ulubione,choroba psychiczna, girlpower, młodzieżówka, powieść młodzieżowa, przyjaźń
 :slug: jestem-juz-normalna
 :status: published
 :cover: images/2019/10/jestem-juz-normalna.jpg

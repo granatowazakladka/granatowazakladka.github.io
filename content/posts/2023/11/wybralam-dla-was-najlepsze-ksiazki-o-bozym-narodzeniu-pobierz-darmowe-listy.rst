@@ -1,7 +1,7 @@
 Wybrałam dla Was najlepsze książki o Bożym Narodzeniu [POBIERZ DARMOWE LISTY]		
 ####################################################################################
 :date: 2023-11-20 02:29
-:category: Boże Narodzenie, Dla dzieci
+:category: Dla dzieci
 :slug: wybralam-dla-was-najlepsze-ksiazki-o-bozym-narodzeniu-pobierz-darmowe-listy
 :status: published
 :cover: images/2023/11/świąteczne-listy-ksiązek-do-pobrania-i-czytania.png

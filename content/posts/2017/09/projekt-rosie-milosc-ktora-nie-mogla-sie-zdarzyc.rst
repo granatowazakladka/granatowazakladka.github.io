@@ -2,7 +2,7 @@
 ############################################################
 :date: 2017-09-21 13:28
 :category: Różności
-:tags: humor, miłość, projekt rosie, romans, śmiech
+:tags: Różności,humor, miłość, projekt rosie, romans, śmiech
 :slug: projekt-rosie-milosc-ktora-nie-mogla-sie-zdarzyc
 :status: published
 :cover: images/2017/09/projekt_rosie01.jpg

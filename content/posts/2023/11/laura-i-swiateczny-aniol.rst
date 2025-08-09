@@ -1,8 +1,8 @@
 "Laura i świąteczny anioł"		
 #################################
 :date: 2023-11-19 16:00
-:category: Boże Narodzenie, Dla dzieci
-:tags: Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, świąteczna książka dla dzieci, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, świąteczna książka dla dzieci, święta, święty mikołaj
 :slug: laura-i-swiateczny-aniol
 :status: published
 :cover: images/2023/11/Lauraswiatecznyaniol.jpg

@@ -1,8 +1,8 @@
 "Prezent gwiazdkowy dla Korneliusza Klopsa"		
 ##################################################
 :date: 2023-11-12 13:41
-:category: Boże Narodzenie, Dla dzieci
-:tags: Boże Narodzenie, dzieci, dziecko, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,Boże Narodzenie, dzieci, dziecko, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
 :slug: prezent-gwiazdkowy-dla-korneliusza-klopsa
 :status: published
 :cover: images/2023/11/Prezent-gwiazdkowy-dla-Korneliusza-Klopsa.jpg

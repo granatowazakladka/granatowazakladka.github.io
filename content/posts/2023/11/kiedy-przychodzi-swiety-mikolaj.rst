@@ -1,8 +1,8 @@
 "Kiedy przychodzi święty Mikołaj?"		
 #########################################
 :date: 2023-11-18 11:34
-:category: Boże Narodzenie, Dla dzieci
-:tags: Boże Narodzenie, dzieci, dziecko, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,Boże Narodzenie, dzieci, dziecko, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
 :slug: kiedy-przychodzi-swiety-mikolaj
 :status: published
 :cover: images/2023/11/Kiedy-przychodzi-Swiety-Mikolaj-okladka.jpg

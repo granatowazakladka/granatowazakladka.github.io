@@ -1,7 +1,7 @@
 "Święta z panem Wierszysławem"		
 #####################################
 :date: 2023-11-10 22:15
-:category: Boże Narodzenie, Dla dzieci
+:category: Dla dzieci
 :slug: swieta-z-panem-wierszyslawem
 :status: published
 :cover: images/2023/11/Swieta-z-panem-wierszyslawem.jpg

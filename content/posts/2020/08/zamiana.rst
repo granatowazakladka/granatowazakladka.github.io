@@ -2,7 +2,7 @@
 ########################################################
 :date: 2020-08-29 10:29
 :category: Babskim okiem
-:tags: powieść obyczajowa, zamiana
+:tags: Babskim okiem,powieść obyczajowa, zamiana
 :slug: zamiana
 :status: published
 :cover: images/2020/08/zamiana.jpg

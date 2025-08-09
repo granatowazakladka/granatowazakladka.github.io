@@ -2,7 +2,7 @@
 ##########################################################
 :date: 2019-10-02 10:08
 :category: Dla dzieci
-:tags: dzieci, dziecko, granatowa zakładka, malala, marzenia
+:tags: Dla dzieci,dzieci, dziecko, granatowa zakładka, malala, marzenia
 :slug: malala-i-jej-czarodziejski-olowek-minirecenzja
 :status: published
 :cover: images/2019/10/malala.jpg

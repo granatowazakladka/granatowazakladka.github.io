@@ -2,7 +2,7 @@ Bridget Jones - kilka słów o serii i mojej przyjaźni z bohaterką
 #######################################################################
 :date: 2017-08-29 13:52
 :category: Babskim okiem
-:tags: bridget jones, bridget jones dziecko, dziennik bridget jones, kobieta, literatura kobieca, szalejąc za facetem, w pogoni za rozumem
+:tags: Babskim okiem,bridget jones, bridget jones dziecko, dziennik bridget jones, kobieta, literatura kobieca, szalejąc za facetem, w pogoni za rozumem
 :slug: bridget-jones-kilka-slow-o-serii-i-mojej-przyjazni-z-bohaterka
 :status: published
 :cover: images/2017/08/rehost_2016_9_14_54e63bb6-2267-4a94-9a18-3556f01ba357.jpg

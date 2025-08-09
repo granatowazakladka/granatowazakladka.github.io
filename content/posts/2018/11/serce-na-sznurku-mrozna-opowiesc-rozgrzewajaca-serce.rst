@@ -2,7 +2,7 @@
 ###############################################################
 :date: 2018-11-24 11:33
 :category: Dla dzieci
-:tags: bajka, dobranocka, dzieci
+:tags: Dla dzieci,bajka, dobranocka, dzieci
 :slug: serce-na-sznurku-mrozna-opowiesc-rozgrzewajaca-serce
 :status: published
 :cover: images/2018/11/serce-na-sznurku.jpg

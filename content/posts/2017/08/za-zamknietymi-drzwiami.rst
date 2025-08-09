@@ -2,7 +2,7 @@
 ############################################################################
 :date: 2017-08-16 16:19
 :category: Różności
-:tags: thriller, za zamkniętymi drzwiami
+:tags: Różności,thriller, za zamkniętymi drzwiami
 :slug: za-zamknietymi-drzwiami
 :status: published
 :cover: images/2017/08/za-zamknietymi-drzwiami-b-iext47030382.jpg

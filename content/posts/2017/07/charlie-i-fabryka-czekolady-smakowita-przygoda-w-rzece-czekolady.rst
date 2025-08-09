@@ -2,7 +2,7 @@
 ############################################################################
 :date: 2017-07-08 15:24
 :category: Dla dzieci
-:tags: charlie i fabryka czekolady, czekolada, dzieci, roald dahl
+:tags: Dla dzieci,charlie i fabryka czekolady, czekolada, dzieci, roald dahl
 :slug: charlie-i-fabryka-czekolady-smakowita-przygoda-w-rzece-czekolady
 :status: published
 :cover: images/2017/07/charlie-i-fabryka-czekolady.jpg

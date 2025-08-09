@@ -2,7 +2,7 @@
 #################################
 :date: 2017-09-19 12:45
 :category: Różności
-:tags: colleen hoover, confess, młodzież, młodzieżówka, obyczajówka, powieść dla młodzieży
+:tags: Różności,colleen hoover, confess, młodzież, młodzieżówka, obyczajówka, powieść dla młodzieży
 :slug: confess-colleen-hoover
 :status: published
 :cover: images/2017/09/confess.jpg

@@ -1,8 +1,8 @@
 "Habit zamiast szminki, czyli zakonnice zabierają głos"		
 ##############################################################
 :date: 2017-07-31 21:54
-:category: Babskim okiem, Katobook
-:tags: habit, klasztor, siostra zakonna, szminka, zakon, zakonnice
+:category: Katobook
+:tags: Babskim okiem, Katobook,habit, klasztor, siostra zakonna, szminka, zakon, zakonnice
 :slug: habit-zamiast-szminki-czyli-zakonnice-zabieraja-glos
 :status: published
 :cover: images/2017/07/20292612_1434344433282126_1526390212103998656_n.jpg

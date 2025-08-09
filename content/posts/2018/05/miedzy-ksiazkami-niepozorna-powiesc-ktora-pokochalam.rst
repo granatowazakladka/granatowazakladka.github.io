@@ -1,8 +1,8 @@
 "Między książkami" - niepozorna powieść, którą pokochałam!		
 #################################################################
 :date: 2018-05-21 21:24
-:category: Różności, Ulubione
-:tags: książka, książki, powieść obyczajowa
+:category: Ulubione
+:tags: Różności, Ulubione,książka, książki, powieść obyczajowa
 :slug: miedzy-ksiazkami-niepozorna-powiesc-ktora-pokochalam
 :status: published
 :cover: images/2018/05/miedzy-ksiazkami.jpg

@@ -2,7 +2,7 @@ Amelia Bedelia - gosposia, która rozbawi do łez!
 #######################################################
 :date: 2017-11-26 10:37
 :category: Dla dzieci
-:tags: amelia bedelia, gosposia, kłopoty, przygoda
+:tags: Dla dzieci,amelia bedelia, gosposia, kłopoty, przygoda
 :slug: 252-2
 :status: published
 :cover: images/2017/11/amelia-bedelia.jpg

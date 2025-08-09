@@ -2,7 +2,7 @@
 ####################################
 :date: 2017-10-15 11:31
 :category: Różności
-:tags: colleen hoover, miłość, młodzieżówka, obyczajówka
+:tags: Różności,colleen hoover, miłość, młodzieżówka, obyczajówka
 :slug: november-9-colleen-hoover
 :status: published
 :cover: images/2017/09/november-9-b-iext43917260.jpg

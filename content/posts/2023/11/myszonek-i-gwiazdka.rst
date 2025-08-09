@@ -1,8 +1,8 @@
 "Myszonek i gwiazdka"		
 ############################
 :date: 2023-11-01 14:37
-:category: Boże Narodzenie, Dla dzieci
-:tags: adwent, Boże Narodzenie, dla niecierpliwych, książka dla dzieci, książka na święta, literatura dziecięca
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,adwent, Boże Narodzenie, dla niecierpliwych, książka dla dzieci, książka na święta, literatura dziecięca
 :slug: myszonek-i-gwiazdka
 :status: published
 :cover: images/2023/11/Myszonek-i-gwiazdka.jpg

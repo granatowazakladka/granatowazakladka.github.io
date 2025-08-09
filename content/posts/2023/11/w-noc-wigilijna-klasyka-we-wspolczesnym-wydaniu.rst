@@ -1,8 +1,8 @@
 "W noc wigilijną" - klasyka we współczesnym wydaniu		
 ##########################################################
 :date: 2023-11-19 12:06
-:category: Boże Narodzenie, Dla dzieci
-:tags: Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
 :slug: w-noc-wigilijna-klasyka-we-wspolczesnym-wydaniu
 :status: published
 

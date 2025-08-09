@@ -2,7 +2,7 @@
 #########################################################
 :date: 2017-09-17 14:01
 :category: Różności
-:tags: biblia, księga dziwnych nowych rzeczy, michel faber, planeta
+:tags: Różności,biblia, księga dziwnych nowych rzeczy, michel faber, planeta
 :slug: ksiega-dziwnych-nowych-rzeczy-z-misja-u-oazjan
 :status: published
 :cover: images/2017/09/ksiega-dziwnych-nowych-rzeczy-b-iext43469121.jpg

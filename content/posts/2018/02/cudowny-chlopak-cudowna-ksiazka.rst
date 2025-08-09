@@ -1,8 +1,8 @@
 "Cudowny chłopak" - cudowna książka!		
 ###########################################
 :date: 2018-02-18 20:35
-:category: Różności, Ulubione
-:tags: cudowny chłopak, książka, ulubione
+:category: Ulubione
+:tags: Różności, Ulubione,cudowny chłopak, książka, ulubione
 :slug: cudowny-chlopak-cudowna-ksiazka
 :status: published
 :cover: images/2018/02/cudowny-chlopak.jpg

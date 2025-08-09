@@ -1,8 +1,8 @@
 "Gwiazdka Miko"		
 ######################
 :date: 2023-11-05 15:43
-:category: Boże Narodzenie, Dla dzieci
-:tags: Boże Narodzenie, książka dla dzieci, książka na święta, literatura dziecięca, święta
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,Boże Narodzenie, książka dla dzieci, książka na święta, literatura dziecięca, święta
 :slug: gwiazdka-miko
 :status: published
 :cover: images/2023/11/gwiazdka-miko.jpg

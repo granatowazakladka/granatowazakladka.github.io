@@ -2,7 +2,7 @@
 ###############################################################
 :date: 2018-01-02 11:09
 :category: Różności
-:tags: człowiek ktory widział więcej, dobro i zło, filozofia, schmitt
+:tags: Różności,człowiek ktory widział więcej, dobro i zło, filozofia, schmitt
 :slug: czlowiek-ktory-widzial-wiecej-eric-emmanuel-schmitt
 :status: published
 :cover: images/2018/01/czlowiek-ktory-widzial-wiecej.jpg

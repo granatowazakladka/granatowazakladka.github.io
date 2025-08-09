@@ -1,8 +1,8 @@
 "Służące" - absolutnie wspaniała powieść! #MINIRECENZJA		
 ##############################################################
 :date: 2020-08-10 10:12
-:category: Babskim okiem, Różności, Ulubione
-:tags: powieść, powieść obyczajowa, rasizm, służące
+:category: Ulubione
+:tags: Babskim okiem, Różności, Ulubione,powieść, powieść obyczajowa, rasizm, służące
 :slug: sluzace-absolutnie-wspaniala-powiesc-minirecenzja
 :status: published
 :cover: images/2020/08/sluzace.jpg

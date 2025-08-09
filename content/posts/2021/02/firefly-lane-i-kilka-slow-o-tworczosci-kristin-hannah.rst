@@ -2,7 +2,7 @@
 ##############################################################
 :date: 2021-02-14 17:49
 :category: Babskim okiem
-:tags: firefly lane, granatowazakładka, kristin hannah, powieść obrazkowa, przyjaźń
+:tags: Babskim okiem,firefly lane, granatowazakładka, kristin hannah, powieść obrazkowa, przyjaźń
 :slug: firefly-lane-i-kilka-slow-o-tworczosci-kristin-hannah
 :status: published
 :cover: images/2021/02/firefly-lane.png

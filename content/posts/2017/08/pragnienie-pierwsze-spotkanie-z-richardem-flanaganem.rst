@@ -2,7 +2,7 @@
 ###############################################################
 :date: 2017-08-07 14:04
 :category: Różności
-:tags: flanagan, pragnienie, richard flanagan
+:tags: Różności,flanagan, pragnienie, richard flanagan
 :slug: pragnienie-pierwsze-spotkanie-z-richardem-flanaganem
 :status: published
 :cover: images/2017/08/Flanagan_Pragnienie_m.jpg

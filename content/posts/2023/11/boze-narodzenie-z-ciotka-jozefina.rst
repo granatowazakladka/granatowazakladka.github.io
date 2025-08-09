@@ -1,8 +1,8 @@
 "Boże Narodzenie z ciotką Józefiną"		
 ##########################################
 :date: 2023-11-19 08:20
-:category: Boże Narodzenie, Dla dzieci
-:tags: Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, świąteczna książka dla dzieci, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, świąteczna książka dla dzieci, święta, święty mikołaj
 :slug: boze-narodzenie-z-ciotka-jozefina
 :status: published
 :cover: images/2023/11/Boze-Narodzenie-z-ciotka-Jozefina.jpg

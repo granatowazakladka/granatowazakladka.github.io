@@ -1,8 +1,8 @@
 "Paddington i bożonarodzeniowa niespodzianka"		
 ####################################################
 :date: 2023-11-01 20:26
-:category: Boże Narodzenie, Dla dzieci
-:tags: Boże Narodzenie, książka dla dzieci, książka świąteczna, literatura dla dzieci, literatura dziecięca, paddington
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,Boże Narodzenie, książka dla dzieci, książka świąteczna, literatura dla dzieci, literatura dziecięca, paddington
 :slug: paddington-i-bozonarodzeniowa-niespodzianka
 :status: published
 :cover: images/2023/11/Paddington-i-bożonarodzeniowa-niespodzianka.jpg

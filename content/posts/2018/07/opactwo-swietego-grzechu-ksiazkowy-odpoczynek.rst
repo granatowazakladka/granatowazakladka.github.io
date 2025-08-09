@@ -2,7 +2,7 @@
 ########################################################
 :date: 2018-07-14 17:52
 :category: Różności
-:tags: powieść, powieść obyczajowa, romans
+:tags: Różności,powieść, powieść obyczajowa, romans
 :slug: opactwo-swietego-grzechu-ksiazkowy-odpoczynek
 :status: published
 :cover: images/2018/07/opactwo.jpg

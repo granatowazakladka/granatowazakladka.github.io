@@ -2,7 +2,7 @@
 ##############################################
 :date: 2018-04-20 21:36
 :category: Katobook
-:tags: inspiracje, smaki życia, wywiady, życie
+:tags: Katobook,inspiracje, smaki życia, wywiady, życie
 :slug: smaki-zycia-podroz-pelna-inspiracji
 :status: published
 :cover: images/2018/04/smaki-zycia.jpg

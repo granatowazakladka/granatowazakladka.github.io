@@ -2,7 +2,7 @@
 ###################################################
 :date: 2018-08-17 20:37
 :category: Babskim okiem
-:tags: ogród zuzanny, powieść, powieść obyczajowa
+:tags: Babskim okiem,ogród zuzanny, powieść, powieść obyczajowa
 :slug: ogrod-zuzanny-powiesc-ktora-daje-radosc
 :status: published
 :cover: images/2018/08/kwiaty.jpeg

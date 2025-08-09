@@ -1,8 +1,8 @@
 "Hotel Winterhouse" - przygoda, którą chciałabym przeżyć		
 ###############################################################
 :date: 2019-02-19 20:54
-:category: Dla dzieci, Różności, Ulubione
-:tags: hotel winterhouse, przygoda, tajemnica
+:category: Ulubione
+:tags: Dla dzieci, Różności, Ulubione,hotel winterhouse, przygoda, tajemnica
 :slug: hotel-winterhouse-przygoda-ktora-chcialabym-przezyc
 :status: published
 :cover: images/2019/02/hotel-winterhouse.jpg

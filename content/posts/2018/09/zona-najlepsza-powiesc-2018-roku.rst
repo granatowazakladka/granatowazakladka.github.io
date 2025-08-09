@@ -2,7 +2,7 @@
 ############################################
 :date: 2018-09-28 21:10
 :category: Ulubione
-:tags: meg wolitzer, powieść, żona
+:tags: Ulubione,meg wolitzer, powieść, żona
 :slug: zona-najlepsza-powiesc-2018-roku
 :status: published
 :cover: images/2018/09/żona.jpg

@@ -2,7 +2,7 @@ Książkowe kalendarze adwentowe
 #####################################
 :date: 2019-11-07 14:46
 :category: Dla dzieci
-:tags: adwent, Boże Narodzenie, kalendarz adwentowty, książki dla dzieci, książki na adwent
+:tags: Dla dzieci,adwent, Boże Narodzenie, kalendarz adwentowty, książki dla dzieci, książki na adwent
 :slug: ksiazkowe-kalendarze-adwentowe
 :status: published
 :cover: images/2019/11/20191107_152941.jpg

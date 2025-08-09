@@ -2,7 +2,7 @@
 ##################################################################
 :date: 2020-10-26 17:48
 :category: Różności
-:tags: Boże Narodzenie, powieść obyczajowa, święta
+:tags: Różności,Boże Narodzenie, powieść obyczajowa, święta
 :slug: swiateczne-powiesci-klaudii-bianek-otulcie-sie-ksiazkami
 :status: published
 :cover: images/2020/10/1603730652121137.jpg

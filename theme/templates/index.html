@@ -30,7 +30,7 @@
 					{{ article.summary|striptags|truncate(250) }}
 				{% endif %}
 				</p>
-				<a class="read-more" href="{{ article.url }}">Czytaj dalej »</a>
+				<a class="read-more" href="{{ SITEURL }}/{{ article.url }}">Czytaj dalej »</a>
 			</div>
 		{% endfor %}
 	</div>

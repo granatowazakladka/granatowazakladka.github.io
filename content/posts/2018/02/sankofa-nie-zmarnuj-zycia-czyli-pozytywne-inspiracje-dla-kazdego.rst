@@ -1,8 +1,8 @@
 "Sankofa. Nie zmarnuj życia", czyli pozytywne inspiracje dla każdego!		
 ############################################################################
 :date: 2018-02-28 09:16
-:category: Katobook, Różności
-:tags: psychologia, wiara
+:category: Różności
+:tags: Katobook, Różności,psychologia, wiara
 :slug: sankofa-nie-zmarnuj-zycia-czyli-pozytywne-inspiracje-dla-kazdego
 :status: published
 :cover: images/2018/02/sankofa.jpg

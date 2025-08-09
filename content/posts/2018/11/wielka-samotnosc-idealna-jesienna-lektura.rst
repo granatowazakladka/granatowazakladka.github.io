@@ -2,7 +2,7 @@
 ####################################################
 :date: 2018-11-12 15:24
 :category: Różności
-:tags: alaska, powieść, samotność
+:tags: Różności,alaska, powieść, samotność
 :slug: wielka-samotnosc-idealna-jesienna-lektura
 :status: published
 :cover: images/2018/11/wielka-samotnosc.jpg

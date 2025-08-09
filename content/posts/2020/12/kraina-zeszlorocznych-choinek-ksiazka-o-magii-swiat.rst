@@ -1,8 +1,8 @@
 "Kraina Zeszłorocznych Choinek" - książka o magii świąt		
 ##############################################################
 :date: 2020-12-02 17:53
-:category: Babskim okiem, Boże Narodzenie
-:tags: Boże Narodzenie, granatowazakładka, książka na święta, powieść obyczajowa, powieść świąteczna
+:category: Babskim okiem
+:tags: Babskim okiem, Boże Narodzenie,Boże Narodzenie, granatowazakładka, książka na święta, powieść obyczajowa, powieść świąteczna
 :slug: kraina-zeszlorocznych-choinek-ksiazka-o-magii-swiat
 :status: published
 :cover: images/2020/12/kraina-zeszlorocznych-choinek.jpg

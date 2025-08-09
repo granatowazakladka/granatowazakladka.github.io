@@ -1,8 +1,8 @@
 "Świąteczna pobudka"		
 ###########################
 :date: 2023-11-18 15:40
-:category: Boże Narodzenie, Dla dzieci
-:tags: adwent, Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,adwent, Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, święta, święty mikołaj
 :slug: swiateczna-pobudka
 :status: published
 :cover: images/2023/11/Swiateczna-pobudka.jpg

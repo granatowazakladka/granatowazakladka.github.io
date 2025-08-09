@@ -2,7 +2,7 @@
 #################################################################
 :date: 2017-12-27 11:17
 :category: Różności
-:tags: Boże Narodzenie, jay asher, światło, święta
+:tags: Różności,Boże Narodzenie, jay asher, światło, święta
 :slug: swiatlo-jay-asher-nastoletnia-milosc-i-zapach-choinek
 :status: published
 :cover: images/2017/12/swiatlo-okladka.jpg

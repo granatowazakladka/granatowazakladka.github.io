@@ -1,7 +1,7 @@
 "Jak pracuje święty Mikołaj"		
 ###################################
 :date: 2023-11-14 13:53
-:category: Boże Narodzenie, Dla dzieci
+:category: Dla dzieci
 :slug: jak-pracuje-swiety-mikolaj
 :status: published
 :cover: images/2023/11/Jak-pracuje-swiety-mikolaj-minka-maly.jpg

@@ -2,7 +2,7 @@
 ##############################################
 :date: 2018-03-29 17:11
 :category: Babskim okiem
-:tags: miłość, para, szczęście
+:tags: Babskim okiem,miłość, para, szczęście
 :slug: dwoje-do-pary-i-uczuciowe-komplikacje
 :status: published
 :cover: images/2018/03/dwoje-do-pary.jpg

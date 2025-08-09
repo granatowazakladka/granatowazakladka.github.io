@@ -1,8 +1,8 @@
 "Święty Mikołaj. I ty możesz mu pomóc!"		
 ##############################################
 :date: 2023-11-06 09:18
-:category: Boże Narodzenie, Dla dzieci
-:tags: Boże Narodzenie, książka dla dzieci, książka świąteczna, literatura dziecięca, świąteczna książka dla dzieci, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,Boże Narodzenie, książka dla dzieci, książka świąteczna, literatura dziecięca, świąteczna książka dla dzieci, święty mikołaj
 :slug: swiety-mikolaj-i-ty-mozesz-mu-pomoc
 :status: published
 :cover: images/2023/11/Swiety-Mikolaj-i-ty-mozesz-pomoc.jpg

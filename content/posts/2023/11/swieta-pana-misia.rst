@@ -1,8 +1,8 @@
 "Święta Pana Misia"		
 ##########################
 :date: 2023-11-18 17:29
-:category: Boże Narodzenie, Dla dzieci
-:tags: Boże Narodzenie, książka dla dzieci, książka na święta, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,Boże Narodzenie, książka dla dzieci, książka na święta, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
 :slug: swieta-pana-misia
 :status: published
 :cover: images/2023/11/swieta-pana-misia.jpg

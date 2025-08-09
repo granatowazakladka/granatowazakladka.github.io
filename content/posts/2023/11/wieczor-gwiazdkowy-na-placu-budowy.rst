@@ -1,8 +1,8 @@
 "Wieczór gwiazdkowy na placu budowy"		
 ###########################################
 :date: 2023-11-16 17:15
-:category: Boże Narodzenie, Dla dzieci
-:tags: Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta
 :slug: wieczor-gwiazdkowy-na-placu-budowy
 :status: published
 :cover: images/2023/11/wieczór-gwiazdkowy-na-placu-budowy.jpg

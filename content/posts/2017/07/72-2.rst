@@ -2,7 +2,7 @@
 ########################################################
 :date: 2017-07-16 10:04
 :category: Babskim okiem
-:tags: kobieta, piękne życie, wartości
+:tags: Babskim okiem,kobieta, piękne życie, wartości
 :slug: 72-2
 :status: published
 :cover: images/2017/07/Niequist_Piekne-zycie_popr_500pcx.jpg

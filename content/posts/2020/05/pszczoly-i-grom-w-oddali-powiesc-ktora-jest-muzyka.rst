@@ -2,7 +2,7 @@
 ##############################################################
 :date: 2020-05-21 17:20
 :category: Różności
-:tags: daleki wschód, literatura japońska, literatura piękna, powieść, pszczoły
+:tags: Różności,daleki wschód, literatura japońska, literatura piękna, powieść, pszczoły
 :slug: pszczoly-i-grom-w-oddali-powiesc-ktora-jest-muzyka
 :status: published
 :cover: images/2020/05/pszczoły-i-grom-w-oddali-2.jpg

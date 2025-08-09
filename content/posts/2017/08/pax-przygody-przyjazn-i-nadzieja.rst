@@ -2,7 +2,7 @@
 ############################################
 :date: 2017-08-28 12:37
 :category: Dla dzieci
-:tags: chłopiec, lis, nadzieja, pax, przygoda, przyjaźń, sara pennypacker
+:tags: Dla dzieci,chłopiec, lis, nadzieja, pax, przygoda, przyjaźń, sara pennypacker
 :slug: pax-przygody-przyjazn-i-nadzieja
 :status: published
 :cover: images/2017/08/pax-1.jpg

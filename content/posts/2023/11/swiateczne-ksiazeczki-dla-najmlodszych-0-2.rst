@@ -1,8 +1,8 @@
 Świąteczne książeczki dla najmłodszych (0-2)		
 ###################################################
 :date: 2023-11-18 21:18
-:category: Boże Narodzenie, Dla dzieci
-:tags: adwent, Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,adwent, Boże Narodzenie, książka dla dzieci, książka na święta, książka świąteczna, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta, święty mikołaj
 :slug: swiateczne-ksiazeczki-dla-najmlodszych-0-2
 :status: published
 :cover: images/2023/11/tkmaxx-mniejsze.jpg

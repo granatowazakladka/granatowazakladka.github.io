@@ -1,8 +1,8 @@
 "Jak schować lwa w święta"		
 #################################
 :date: 2023-11-18 16:48
-:category: Boże Narodzenie, Dla dzieci
-:tags: Boże Narodzenie, książka dla dzieci, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta
+:category: Dla dzieci
+:tags: Boże Narodzenie, Dla dzieci,Boże Narodzenie, książka dla dzieci, literatura dla dzieci, literatura dziecięca, świąteczna książka dla dzieci, święta
 :slug: jak-schowac-lwa-w-swieta
 :status: published
 :cover: images/2023/11/jak-schowac-lwa-w-swieta-srodek.jpg

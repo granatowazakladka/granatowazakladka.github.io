@@ -1,7 +1,7 @@
 "Lista, która zmieniła moje życie" - książka na dobry humor		
 ##################################################################
 :date: 2020-05-25 10:41
-:category: Babskim okiem, Różności
+:category: Babskim okiem
 :slug: lista-ktora-zmienila-moje-zycie-ksiazka-na-dobry-humor
 :status: published
 :cover: images/2020/05/lista-ktora-zmienila-moje-zycie.jpg
