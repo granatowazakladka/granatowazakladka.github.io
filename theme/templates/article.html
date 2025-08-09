@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+
+{# <!-- Choosing cover image --> #}
+{% if article.cover %}
+  {% if article.cover|lower|truncate(4, True, '') == "http" %}
+    {% set selected_cover = article.cover %}
+  {% elif article.cover.startswith('/') %}
+    {% set selected_cover = SITEURL+article.cover %}
+  {% else %}
+    {% set selected_cover = SITEURL+"/"+article.cover %}
+  {% endif %}
+{% endif %}
+
+{% block metadata %}
+	<meta name="description" content="{% if article.description %}{{ article.description }}{% else %}{{ BIO }}{% endif %}">
+	<meta property="og:description" content="{% if article.description %}{{ article.description }}{% else %}{{ BIO }}{% endif %}">
+	<meta property="og:title" content="{{ article.title }}" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
+{% endblock %}
+
+{% block content %}
+<div class="post">
+	<h1 class="post-title">{{ article.title }}</h1>
+	<span class="post-date">{{ article.locale_date }}</span>
+
+	{% if selected_cover %}
+		<div class="post-cover cover">
+		{% if "image_process" is plugin_enabled %}
+			<img class="image-process-large-photo" src="{{ selected_cover }}" alt="{{ current_title }}" />
+		{% else %}
+			<img src="{{ selected_cover }}" alt="{{ current_title }}" />
+		{% endif %}
+		</div>
+	{% endif %}
+
+	{{ article.content }}
+
+	{% include 'fragments/disqus.html' %}
+</div>
+<aside class="post-nav">
+	{% if article.next_article %}
+	<a class="post-nav-next" href="{{ SITEURL }}/{{ article.next_article.url}}">
+		<section class="post-nav-teaser">
+		<i class="fa fa-arrow-left"></i>
+			<h2 class="post-nav-title">{{ article.next_article.title }}</h2>
+		<p class="post-nav-excerpt">{{ article.next_article.summary|striptags|truncate(90) }}</p>
+		<p class="post-nav-meta"><time datetime="{{ article.next_article.locale_date }}">{{ article.next_article.locale_date }}</time></p>
+		</section>
+	</a>
+	{% endif %}
+	{% if article.prev_article %}
+	<a class="post-nav-prev" href="{{ SITEURL }}/{{ article.prev_article.url}}">
+		<section class="post-nav-teaser">
+		<i class="fa fa-arrow-right"></i>
+			<h2 class="post-nav-title">{{ article.prev_article.title }}</h2>
+		<p class="post-nav-excerpt">{{ article.prev_article.summary|striptags|truncate(90) }}</p>
+		<p class="post-nav-meta"><time datetime="{{ article.prev_article.locale_date }}">{{ article.prev_article.locale_date }}</time></p>
+		</section>
+	</a>
+	{% endif %}
+</aside>
+{% endblock %}
+

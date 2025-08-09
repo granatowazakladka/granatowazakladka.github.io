@@ -1,0 +1,66 @@
+<div class="sidebar">
+	<div class="container sidebar-sticky">
+		<div class="sidebar-about">
+			<header class="blog-title">
+				<a href="/">
+					<img class="profile-picture" src="{{ SITEURL }}/{{ PROFILE_IMAGE }}">
+					{{ SITENAME }}
+				</a>
+			</header>
+			<p class="lead">{{ SITESUBTITLE }}</p>
+			<p class="lead">{{ BIO }} </p>
+			<p></p>
+		</div>
+		{% if MENUITEMS or DISPLAY_PAGES_ON_MENU or DISPLAY_CATEGORIES_ON_MENU %}
+			<ul class="sidebar-nav">
+			{% if MENUITEMS %}
+				{% for title, link in MENUITEMS %}
+				<li class="nav-{{title}} {%if current_url == link %}active{% endif %}"
+					role="presentation">
+					<a href="{{ link }}"><span>{{ title }}</span></a>
+				</li>
+				{% endfor %}
+			{% endif %}
+			{% if DISPLAY_PAGES_ON_MENU %}
+				{% for p in pages %}
+				<li{% if p == page %} class="nav-{{p.slug}} active"{% endif %}
+					role="presentation">
+					<a href="{{ SITEURL }}/{{ p.url }}"><span>{{ p.title }}</span></a>
+				</li>
+				{% endfor %}
+			{% endif %}
+			{% if DISPLAY_CATEGORIES_ON_MENU %}
+				{% for cat, null in categories %}
+				<li{% if cat == category %} class="nav-{{cat.slug}} active"{% endif %}
+					role="presentation">
+					<a href="{{ SITEURL }}/{{ cat.url }}"><span>{{ cat }}</span></a>
+				</li>
+				{% endfor %}
+			{% endif %}
+			</ul>
+		{% endif %}
+		<nav class="sidebar-social">
+			<a class="sidebar-social-item"
+			   href="{{ INSTRAGRAM_LINK }}"
+			   title="Instagram - @granatowazakladka"
+			   target="_blank">
+				<i class="fa fa-instagram"></i>
+			</a>
+			<a class="sidebar-social-item"
+			   href="{{ FACEBOOK_LINK }}"
+			   title="Facebook - Granatowa Zakładka"
+			   target="_blank">
+				<i class="fa fa-facebook"></i>
+			</a>
+			<a class="sidebar-social-item"
+			   href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM if FEED_ALL_ATOM else FEED_ALL_RSS }}"
+			   title="Kanał RSS"
+			   target="_blank">
+				<i class="fa fa-rss"></i>
+			</a>
+		</nav>
+		{% if FOOTER_TEXT %}
+			<p class="sidebar-footer">{{ FOOTER_TEXT }}</p>
+		{% endif %}
+	</div>
+</div>
