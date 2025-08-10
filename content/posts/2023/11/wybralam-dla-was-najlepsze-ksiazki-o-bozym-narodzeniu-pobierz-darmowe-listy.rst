@@ -5,7 +5,7 @@ Wybrałam dla Was najlepsze książki o Bożym Narodzeniu [POBIERZ DARMOWE LISTY
 :slug: wybralam-dla-was-najlepsze-ksiazki-o-bozym-narodzeniu-pobierz-darmowe-listy
 :status: published
 :cover: images/2023/11/świąteczne-listy-ksiązek-do-pobrania-i-czytania.png
-:attachments: images/2023/11/Książki-o-św-Mikołaju-Granatowa-Zakładka.pdf, images/2023/11/Świąteczne-książeczki-dla-najmłodszych-1.pdf, images/2023/11/Świąteczne-książki-nie-tylko-dla-dzieci.pdf, images/2023/11/świąteczne-listy-ksiązek-do-pobrania-i-czytania.png, images/2023/11/Świąteczne-książki-o-zwierzątkach.pdf, images/2023/11/Książkowe-kalendarze-adwentowe-Granatowa-Zakładka-1.pdf, images/2023/11/Bóg-się-rodzi-książki-z-wątkiem-chrześcijańskim.pdf, images/2023/11/Świąteczne-książeczki-dla-najmłodszych.pdf, images/2023/11/Świąteczne-podróże.pdf
+:attachments: files/Książki-o-św-Mikołaju-Granatowa-Zakładka.pdf, files/Świąteczne-książeczki-dla-najmłodszych-1.pdf, files/Świąteczne-książki-nie-tylko-dla-dzieci.pdf, images/2023/11/świąteczne-listy-ksiązek-do-pobrania-i-czytania.png, files/Świąteczne-książki-o-zwierzątkach.pdf, files/Książkowe-kalendarze-adwentowe-Granatowa-Zakładka-1.pdf, files/Bóg-się-rodzi-książki-z-wątkiem-chrześcijańskim.pdf, files/Świąteczne-książeczki-dla-najmłodszych.pdf, files/Świąteczne-podróże.pdf
 
 Kochani!
 
@@ -17,16 +17,16 @@ Każda jest zrobiona trochę inaczej, starałam się, żeby było lekko i wesoł
 
 Listy książek pobiorą się w formacie PDF. Będzie mi bardzo miło, jeśli gdzieś udostępnicie link do tego wpisu albo po prostu podeślecie go znajomym. :)
 
-1. `Książki o św Mikołaju - Granatowa Zakładka <https://granatowazakladka.pl/images/2023/11/Książki-o-św-Mikołaju-Granatowa-Zakładka.pdf>`__
+1. `Książki o św Mikołaju - Granatowa Zakładka <{static}/files/Książki-o-św-Mikołaju-Granatowa-Zakładka.pdf>`__
 
-2. `Książkowe kalendarze adwentowe - Granatowa Zakładka <https://granatowazakladka.pl/images/2023/11/Książkowe-kalendarze-adwentowe-Granatowa-Zakładka-1.pdf>`__
+2. `Książkowe kalendarze adwentowe - Granatowa Zakładka <{static}/files/Książkowe-kalendarze-adwentowe-Granatowa-Zakładka-1.pdf>`__
 
-3. `Świąteczne książeczki dla najmłodszych <https://granatowazakladka.pl/images/2023/11/Świąteczne-książeczki-dla-najmłodszych-1.pdf>`__
+3. `Świąteczne książeczki dla najmłodszych <{static}/files/Świąteczne-książeczki-dla-najmłodszych-1.pdf>`__
 
-4. `Świąteczne książki o zwierzątkach <https://granatowazakladka.pl/images/2023/11/Świąteczne-książki-o-zwierzątkach.pdf>`__
+4. `Świąteczne książki o zwierzątkach <{static}/files/Świąteczne-książki-o-zwierzątkach.pdf>`__
 
-5. `Świąteczne podróże <https://granatowazakladka.pl/images/2023/11/Świąteczne-podróże.pdf>`__
+5. `Świąteczne podróże <{static}/files/Świąteczne-podróże.pdf>`__
 
-6. `Bóg się rodzi - książki z wątkiem chrześcijańskim <https://granatowazakladka.pl/images/2023/11/Bóg-się-rodzi-książki-z-wątkiem-chrześcijańskim.pdf>`__
+6. `Bóg się rodzi - książki z wątkiem chrześcijańskim <{static}/files/Bóg-się-rodzi-książki-z-wątkiem-chrześcijańskim.pdf>`__
 
-7. `Świąteczne książki nie tylko dla dzieci <https://granatowazakladka.pl/images/2023/11/Świąteczne-książki-nie-tylko-dla-dzieci.pdf>`__
+7. `Świąteczne książki nie tylko dla dzieci <{static}/files/Świąteczne-książki-nie-tylko-dla-dzieci.pdf>`__

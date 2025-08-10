@@ -6,7 +6,7 @@
 :slug: swieta-z-jadzia-petelka
 :status: published
 :cover: images/2023/11/jadzia-petelka-odwiedza-dziadkow.jpg
-:attachments: images/2023/11/Książkowe-kalendarze-adwentowe-Granatowa-Zakładka.pdf, images/2023/11/jadzia-petelka-odwiedza-dziadkow.jpg, images/2023/11/jadzia-petelka-piecze-pierniki.jpg
+:attachments: files/Książkowe-kalendarze-adwentowe-Granatowa-Zakładka.pdf, images/2023/11/jadzia-petelka-odwiedza-dziadkow.jpg, images/2023/11/jadzia-petelka-piecze-pierniki.jpg
 
 Jadzia Pętelka towarzyszy dzieciom w różnych ważnych dla nich sytuacjach: podczas wizyty u dentysty czy fryzjera, gdy witają rodzeństwo, gdy złoszczą się i gdy okazują miłość swoim bliskim. W Święta Bożego Narodzenia Jadzia odwiedza dziadków i piecze pierniki.
 

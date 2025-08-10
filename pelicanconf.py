@@ -25,7 +25,10 @@ THEME_STATIC_DIR = 'theme'
 
 # Content settings
 PATH = "content"
-STATIC_PATHS = ['images']
+STATIC_PATHS = [
+    'images',
+    'files'
+]
 
 ARCHIVES_SAVE_AS = ARCHIVES_URL = 'archives.html'
 AUTHORS_SAVE_AS = AUTHORS_URL = 'authors.html'
