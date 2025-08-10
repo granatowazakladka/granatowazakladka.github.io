@@ -25,7 +25,7 @@ jobs:
     
       - name: Build site
         env:
-          SITEURL: https://granatowazakladka.github.io
+          SITEURL: https://granatowazakladka.pl
         run: pelican -o _site
 
       - name: Setup Pages
