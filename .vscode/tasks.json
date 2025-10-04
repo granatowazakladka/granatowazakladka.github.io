@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Podgląd strony",
+      "type": "shell",
+      "command": ".\\.venv\\Scripts\\pelican.exe -l",
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated",
+        "clear": false
+      },
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": []
+    }
+  ]
+}
